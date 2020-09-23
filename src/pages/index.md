@@ -14,13 +14,13 @@ mainpitch:
 description: CatalystsOne offers a full suite of impact relations services
 intro:
   blurbs:
-    - image: /img/noun_invester_3232534.svg
+    - image: /img/noun_invester_3232534.svg.png
       text: Investor Relations
-    - image: /img/noun_news_651363.svg
+    - image: /img/noun_news_651363.svg.png
       text: Public Relations
-    - image: /img/noun_media_3341361.svg
+    - image: /img/noun_media_3341361.svg.png
       text: Crisis Communications
-    - image: /img/noun_environment_3325927.svg
+    - image: /img/noun_environment_3325927.svg.png
       text: ESG
   heading: CatalystsOne aims to upgrade management and board level interaction and
     communication efforts with Wall Street by advising executives facing
