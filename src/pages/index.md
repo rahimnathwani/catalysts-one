@@ -1,38 +1,43 @@
 ---
 templateKey: index-page
-title: Investor Relations Stuff
-image: /img/chemex.jpg
-heading: Services
-subheading: It's really important
+title: "CatalystOne: Impact Relations"
+image: /img/tommy-lisbin-kdcnmw3x5gy-unsplash.jpg
+heading: Our Services
+subheading: CatalystsOne provides strategic insight, advice and services to
+  US-listed, Asia-based companies
 mainpitch:
-  title: Why Catalysts One
-  description: We do investor relations really really well
-description: If you want to do investor relations well, you need the services we
-  provide below.
+  title: CatalystsOne is an executive advisory firm for global tech and social
+    impact innovators
+  description: We advise next generation trailblazers on how to lead and inspire
+    by refining their business and communication strategies to maximize
+    stakeholder value
+description: CatalystsOne offers a full suite of impact relations services
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: Investor Relations slkdjflskaj flksj dfl
-    - image: /img/tutorials.png
-      text: Focus on US-listed, China-based companies
-    - image: /img/meeting-space.png
-      text: Unique perspective from decades of experience in China
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/noun_invester_3232534.svg
+      text: Investor Relations
+    - image: /img/noun_news_651363.svg
+      text: Public Relations
+    - image: /img/noun_media_3341361.svg
+      text: Crisis Communications
+    - image: /img/noun_environment_3325927.svg
+      text: ESG
+  heading: CatalystsOne aims to upgrade management and board level interaction and
+    communication efforts with Wall Street by advising executives facing
+    critical stakeholder issues and crisis situations in today’s rapidly
+    changing environments.
+  description: CatalystsOne provides strategic insight, advice and services to
+    US-listed, Asia-based companies
 main:
   heading: " --"
   description: --
   image1:
     alt: --
-    image: /img/products-grid3.jpg
+    image: /img/deborah-diem-ds_npvoazro-unsplash.jpg
   image2:
     alt: --
-    image: /img/products-grid2.jpg
+    image: /img/sander-weeteling-kabfjusox74-unsplash.jpg
   image3:
     alt: --
-    image: /img/coffee.png
+    image: /img/alexander-kaunas-w_yphggpgde-unsplash.jpg
 ---
