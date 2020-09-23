@@ -13,8 +13,6 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: Investor Relations slkdjflskaj flksj dfl
-    - image: /img/coffee-gear.png
-      text: ESG
     - image: /img/tutorials.png
       text: Focus on US-listed, China-based companies
     - image: /img/meeting-space.png
