@@ -1,4 +1,11 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+// Font Variables
+$header-font: 'Montserrat', sans-serif; 
+$body-font: 'Raleway', sans-serif;
+
 
 // Config vars
 // Kaldi logo brand color: #FD461E
@@ -9,6 +16,11 @@ $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $header-font;
+  font-weight: normal;
+}
 
 .navbar .navbar-menu
   box-shadow:none !important
