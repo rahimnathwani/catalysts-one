@@ -5,11 +5,9 @@ title: About CatalystsOne
 ---
 ![sdcsd](/img/apple-touch-icon.png "sdfsdf")
 
+CatalystsOne is an executive advisory firm for global tech and social impact innovators. We advise next generation trailblazers on how to lead and inspire by refining their business and communication strategies to maximize stakeholder value. CatalystsOne provides strategic insight, advice and services to US-listed companies. CatalystsOne aims to upgrade management and board level interaction and communication efforts with Wall Street by advising executives facing critical stakeholder issues and crisis situations in today’s rapidly changing environments.
 
-
-CatalystsOne is an executive advisory firm for global tech and social impact innovators. We advise next generation trailblazers on how to lead and inspire by refining their business and communication strategies to maximize stakeholder value. CatalystsOne provides strategic insight, advice and services to US-listed, Asia-based companies. CatalystsOne aims to upgrade management and board level interaction and communication efforts with Wall Street by advising executives facing critical stakeholder issues and crisis situations in today’s rapidly changing environments.
-
-Launched in September 2020, CatalystsOne Managing Partners, Jeremy Peruski and Sharon Ng, have combined their decades of unparalleled internal and external expertise in [gl](<>)obal capital markets, capital markets communication and corporate finance in the US and China. CatalystsOne offers a full suite of impact relations services, including investor relations, public relations, crisis communication and ESG services.
+Launched in September 2020, CatalystsOne Managing Partners, Jeremy Peruski and Sharon Ng, have combined their decades of unparalleled internal and external expertise in [](<>)global capital markets, capital markets communication and corporate finance in the US and China. CatalystsOne offers a full suite of impact relations services, including investor relations, public relations, crisis communication and ESG services.
 
 **Jeremy Peruski**
 
