@@ -4,7 +4,7 @@ title: "CatalystsOne: Impact Relations"
 image: /img/tommy-lisbin-kdcnmw3x5gy-unsplash.jpg
 heading: Our Services
 subheading: CatalystsOne provides strategic insight, advice and services to
-  US-listed, Asia-based companies
+  US-listed companies
 mainpitch:
   title: CatalystsOne is an executive advisory firm for global tech and social
     impact innovators
